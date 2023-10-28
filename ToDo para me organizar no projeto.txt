@@ -1,0 +1,77 @@
+
+### Organização do Trabalho em Etapas Detalhadas:
+
+#### 1. Preparação:
+1. Crie um repositório no GitHub para o trabalho.
+2. Clone o repositório no seu computador local.
+
+#### 2. Modelagem do Banco de Dados:
+3. Defina a estrutura geral do banco de dados no MongoDB.
+4. Identifique e liste todos os campos necessários para o projeto e as tarefas.
+5. Descreva as relações entre projetos, tarefas e usuários.
+6. Escolha entre documentos embarcados ou referenciados para as tarefas dentro de um projeto.
+7. Crie um documento exemplo em formato JSON para representar um projeto com tarefas.
+
+#### 3. Validação de Dados:
+8. Estude o JSON Schema no MongoDB para entender a validação.
+9. Escreva o esquema de validação para o projeto.
+10. Escreva o esquema de validação para as tarefas.
+11. Escreva o esquema de validação para os usuários.
+12. Aplique o esquema de validação ao banco de dados.
+
+#### 4. Criação do Banco de Dados e Coleção:
+13. Inicie o MongoDB e crie um novo banco de dados para o sistema To-Do List.
+14. Crie coleções para projetos, tarefas (se não estiverem embarcadas) e usuários.
+15. Implemente scripts para inserir dados de exemplo nas coleções.
+
+#### 5. Operações CRUD:
+16. Escreva funções/script para inserir um novo projeto.
+17. Escreva funções/script para inserir uma nova tarefa.
+18. Escreva funções/script para modificar uma tarefa existente.
+19. Escreva funções/script para deletar uma tarefa.
+20. Escreva funções/script para listar todas as tarefas de um projeto.
+21. Escreva funções/script para listar tarefas com base em critérios (por exemplo, todas as tarefas "To-Do").
+
+#### 6. Buscas:
+22. Implemente uma função de busca para projetos por nome.
+23. Implemente uma função de busca para tarefas por título.
+24. Implemente uma função de busca para tarefas por status.
+25. Implemente uma função de busca para tarefas por usuário.
+26. Implemente uma função de busca para tarefas vencidas.
+
+#### 7. Update:
+27. Implemente funções/script para alterar o usuário responsável por uma tarefa.
+28. Implemente funções/script para alterar o prazo de uma tarefa.
+29. Implemente funções/script para alterar o status de uma tarefa.
+
+#### 8. Indexação e Otimização:
+30. Estude os padrões de acesso ao seu banco de dados.
+31. Crie índices nos campos que são frequentemente consultados.
+32. Crie índices nos campos que são frequentemente usados em operações de ordenação.
+33. Monitore o desempenho do banco de dados após a criação dos índices.
+34. Ajuste e otimize conforme necessário.
+
+#### 9. Documentação:
+35. Documente a estrutura do banco de dados.
+36. Documente todas as funções/scripts criados.
+37. Documente os índices criados e justifique suas escolhas.
+
+#### 10. Preparação para Entrega:
+38. Adicione todos os scripts e documentos ao repositório do GitHub.
+39. Crie um README.md detalhado para o repositório.
+40. Verifique se todos os arquivos necessários estão presentes.
+41. Faça um commit final e envie (push) tudo para o repositório.
+42. Teste o repositório, certificando-se de que ele pode ser clonado e usado por outras pessoas.
+
+#### 11. Revisão Final:
+43. Revise todo o trabalho para garantir que tudo está completo.
+44. Verifique se todos os requisitos do enunciado foram atendidos.
+45. Teste todas as funções/scripts para garantir que elas funcionem corretamente.
+46. Peça a alguém para revisar seu trabalho se possível.
+
+#### 12. Submissão:
+47. Envie o link do seu repositório GitHub conforme instruído.
+48. Garanta que o repositório seja público para que o professor possa acessá-lo.
+49. Faça uma autoavaliação, refletindo sobre o que aprendeu e o que poderia fazer diferente.
+50. Aguarde o feedback do professor.
+
